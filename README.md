@@ -1,5 +1,3 @@
-# Is Anisotropy Truely Harmful? A Case Study on Text Clustering
+# Is Anisotropy Truly Harmful? A Case Study on Text Clustering
 
-Data and source code used in the paper: 
-
-Mira Ait-Saada and Mohamed Nadif. Is Anisotropy Truely Harmful? A Case Study on Text Clustering. ACL 2023.
+Data and source code used for our ACL 2023 paper - [Is Anisotropy Truly Harmful? A Case Study on Text Clustering](https://aclanthology.org/2023.acl-short.103/)
